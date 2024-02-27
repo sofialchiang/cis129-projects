@@ -1,6 +1,8 @@
 # Module 4 Lab-4
 # Sofia Chiang (Arroyo)
 # 02/26/2024
+# This Program calculates the store's and employee's bonus based on the monthly sales and sales increase percentage
+
 
 # Decalre local variables
 storeAmount =  0 # store bonus amount
