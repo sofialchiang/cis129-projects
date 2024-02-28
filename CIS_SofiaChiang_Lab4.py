@@ -4,7 +4,7 @@
 # This Program calculates the store's and employee's bonus based on the monthly sales and sales increase percentage
 
 
-# Decalre local variables
+# Declare local variables
 storeAmount =  0 # store bonus amount
 empAmount =  0 # employee bonus amount
 salesIncrease = 0 # percent of sales increase
